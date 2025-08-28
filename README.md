@@ -110,15 +110,3 @@ final-project-computer-vision/
 * pickle (standard library)
 
 Additional packages may be required depending on visualization choices.
-
----
-
-## License
-
-This project is for educational purposes. You can include your preferred license here (e.g., MIT, GPL, etc.).
-
----
-
-If you want, I can also create a **more beginner-friendly version** with GIFs/screenshots and step-by-step instructions for someone new to 3D reconstruction. That can make your project look really polished on GitHub.
-
-Do you want me to do that?
